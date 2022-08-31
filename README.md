@@ -1,6 +1,3 @@
 # react-ts-sample
-React・TypeScriptのあまり良くないコード例（随時更新予定）
-
-## nodeのバージョン
-16.15.1
-
+React・TypeScriptエンジニア面談用のサンプルプロジェクトです。
+これをベースにいくつかの機能を実装してもらう想定です。
